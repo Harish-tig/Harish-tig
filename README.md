@@ -5,7 +5,7 @@
 - 😄 Pronouns: HE/HIM.
 - ⚡ Fun fact: ...
 
-#### - This Repo Contains the Project I've Worked on While learning.
+#### - This Repo Contains the Project I've Worked on Throught My Bachelors.
 
 
 <!---
