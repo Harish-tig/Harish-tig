@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harish Nadar</h1>
 <h3 align="center">A Developer who is Passionate about AI&ML.</h3>
-<img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/01/78/65/02/360_F_178650212_oePgGaIhKUhz0cIg2bLBGsFsdbWs5Xwj.jpg">
+<img align="right" alt="Coding" width="300" src="https://t3.ftcdn.net/jpg/01/78/65/02/360_F_178650212_oePgGaIhKUhz0cIg2bLBGsFsdbWs5Xwj.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harish-tig&label=Profile%20views&color=0e75b6&style=flat" alt="harish-tig" /> </p>
 
