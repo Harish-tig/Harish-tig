@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harish Nadar</h1>
 <h3 align="center">A Developer who is Passionate about AI&ML.</h3>
-(img align="right" alt="Coding" width="400" src="https://www.google.com/search?client=ms-android-oppo-rvo3&sca_esv=de93c5c4281f23a7&sca_upv=1&sxsrf=ACQVn0_K3AkpVrQhPAPIijtls4vtjDlsVw:1714676044474&q=robot+coding+gif&uds=AMwkrPtITlNO1JLZLsUMjuLHpvZHVs5Nao6_ag8xKSKY0FbdJhGWwpHMo8i3TyvRQnpYcLSg_qUzYappPwSpGPxTBiRTNT2d1T4cHhgyS6D0SLNqzyfF09wZE9668w77bAkrwie1rVS2dameVfVqgu7ojnOUg8KAvwDHkfYHkyk2QmlzWG8IJm7t9-OA3l89yZYIEAJl0oqaUXmfEvsJN-RJC5J2uAUzdxNFbEIGmJ-EWlFjDZS-8pUvkbw1jcn2FEP1Sq4LvUBrVPsnS1vciwyejoVSpvw4SfTiFfVOcgn49l51B3J6WBZprrYtycSfwqexh55bnVZs&udm=2&prmd=ivsnbmtz&sa=X&ved=2ahUKEwiLo6SE0u-FAxVUZvUHHSxDAFwQtKgLegQIDBAB&biw=360&bih=689&dpr=3#vhid=TdlcWBfWs8i0nM&vssid=mosaic")
+<img align="right" alt="Coding" width="400" src="https://www.google.com/search?client=ms-android-oppo-rvo3&sca_esv=de93c5c4281f23a7&sca_upv=1&sxsrf=ACQVn0_K3AkpVrQhPAPIijtls4vtjDlsVw:1714676044474&q=robot+coding+gif&uds=AMwkrPtITlNO1JLZLsUMjuLHpvZHVs5Nao6_ag8xKSKY0FbdJhGWwpHMo8i3TyvRQnpYcLSg_qUzYappPwSpGPxTBiRTNT2d1T4cHhgyS6D0SLNqzyfF09wZE9668w77bAkrwie1rVS2dameVfVqgu7ojnOUg8KAvwDHkfYHkyk2QmlzWG8IJm7t9-OA3l89yZYIEAJl0oqaUXmfEvsJN-RJC5J2uAUzdxNFbEIGmJ-EWlFjDZS-8pUvkbw1jcn2FEP1Sq4LvUBrVPsnS1vciwyejoVSpvw4SfTiFfVOcgn49l51B3J6WBZprrYtycSfwqexh55bnVZs&udm=2&prmd=ivsnbmtz&sa=X&ved=2ahUKEwiLo6SE0u-FAxVUZvUHHSxDAFwQtKgLegQIDBAB&biw=360&bih=689&dpr=3#vhid=TdlcWBfWs8i0nM&vssid=mosaic">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harish-tig&label=Profile%20views&color=0e75b6&style=flat" alt="harish-tig" /> </p>
 
@@ -26,8 +26,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harish-tig&show_icons=true&locale=en&layout=compact" alt="harish-tig" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harish-tig&" alt="harish-tig" /></p>
-
-<!---
-Harish-tig/Harish-tig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
