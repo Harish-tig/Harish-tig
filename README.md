@@ -15,6 +15,8 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1TdYwC_HKOIMWOaP0gme67Pn2PR4qSdC4/view?usp=drive_link](https://drive.google.com/file/d/1TdYwC_HKOIMWOaP0gme67Pn2PR4qSdC4/view?usp=drive_link)
 
 - ⚡ Fun fact **I Am active Sportsperson.**
+  
+- 🖇️ Check My Linkedin at [https://www.linkedin.com/in/harish-nadar-b366172a5/).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
