@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I Am active Sportsperson.**
   
-- 🖇️ Check My Linkedin at [https://www.linkedin.com/in/harish-nadar-b366172a5/).
+- 🖇️ Check My Linkedin at https://www.linkedin.com/in/harish-nadar-b366172a5/.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
