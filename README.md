@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Harish Nadar</h1>
-<h3 align="center">A Developer who is Passionate about AI&ML.</h3>
+<h3 align="center">A Developer who is Passionate about AI, ML, DS, Cybersecurity.</h3>
 <img align="right" alt="Coding" width="300" src="https://t3.ftcdn.net/jpg/01/78/65/02/360_F_178650212_oePgGaIhKUhz0cIg2bLBGsFsdbWs5Xwj.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harish-tig&label=Profile%20views&color=0e75b6&style=flat" alt="harish-tig" /> </p>
-
-- 🌱 I’m currently learning **DSA, ML, Nodejs.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Harish-tig](https://github.com/Harish-tig)
 
@@ -13,10 +11,10 @@
 - 📫 How to reach me **nadarharis03@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1TdYwC_HKOIMWOaP0gme67Pn2PR4qSdC4/view?usp=drive_link](https://drive.google.com/file/d/1TdYwC_HKOIMWOaP0gme67Pn2PR4qSdC4/view?usp=drive_link)
-
-- ⚡ Fun fact **I Am active Sportsperson.**
   
 - 🖇️ Check My Linkedin at https://www.linkedin.com/in/harish-nadar-b366172a5/.
+
+- ⚡ Fun fact **I Am active Sportsperson.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
