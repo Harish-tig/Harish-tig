@@ -7,15 +7,16 @@ requirements-local.txt
 # Local preview HTMLs & scratch files
 preview_*.html
 scratch_*
-avi-ascii-static.svg
-info-card.svg
-source-prepped.png
+/avi-ascii-static.svg
+/info-card.svg
+/source-prepped.png
 
 # Source photos & local images
-photo.jpeg
+/photo.jpeg
 *.jpg
 *.jpeg
 *.png
+!assets/**
 
 # Python virtual environments & build artifacts
 .venv/
@@ -29,5 +30,8 @@ __pycache__/
 # Editor & OS artifacts
 .vscode/
 .idea/
+*.swp
+*.swo
 .DS_Store
 Thumbs.db
+

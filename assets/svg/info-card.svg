@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 539" width="440" height="539" font-family="ui-monospace,'JetBrains Mono','SF Mono',Menlo,Consolas,monospace">
+  <!-- Background -->
+  <rect width="440" height="539" rx="10" fill="#0d1117"/>
+
+  <!-- Subtle surface tint on body -->
+  <rect x="0" y="28" width="440" height="511" rx="10" fill="#111722" opacity="0.4"/>
+
+  <!-- Border -->
+  <rect x="0.6" y="0.6" width="438.8" height="537.8" rx="10" fill="none" stroke="#30363d" stroke-width="1.1"/>
+
+  <!-- Titlebar separator -->
+  <line x1="0" y1="28" x2="440" y2="28" stroke="#30363d" stroke-width="0.8"/>
+
+  <!-- Window dots -->
+  <circle cx="14" cy="14.0" r="3.8" fill="#ff5f56"/>
+  <circle cx="26" cy="14.0" r="3.8" fill="#ffbd2e"/>
+  <circle cx="38" cy="14.0" r="3.8" fill="#27c93f"/>
+
+  <!-- Titlebar label -->
+  <text x="220" y="18.0" fill="#484f58" font-size="10" text-anchor="middle">harish@github: ~$ ./info.sh</text>
+
+  <!-- Crewmate decoration (subtle) -->
+  <rect x="394" y="34" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="397" y="34" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="400" y="34" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="403" y="34" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="391" y="37" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="394" y="37" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="397" y="37" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="400" y="37" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="403" y="37" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="406" y="37" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="391" y="40" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="394" y="40" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="397" y="40" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="400" y="40" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="403" y="40" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="406" y="40" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="391" y="43" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="400" y="43" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="403" y="43" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="406" y="43" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="391" y="46" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="394" y="46" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="397" y="46" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="400" y="46" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="403" y="46" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="406" y="46" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="388" y="49" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="391" y="49" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="394" y="49" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="397" y="49" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="400" y="49" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="403" y="49" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="406" y="49" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="409" y="49" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="388" y="52" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="391" y="52" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="394" y="52" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="397" y="52" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="400" y="52" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="403" y="52" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="406" y="52" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="409" y="52" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="388" y="55" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="391" y="55" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="394" y="55" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="397" y="55" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="400" y="55" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="403" y="55" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="406" y="55" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="409" y="55" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="388" y="58" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="391" y="58" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="409" y="58" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="388" y="61" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="391" y="61" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="406" y="61" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="409" y="61" width="3" height="3" fill="#a855f7" opacity="0.20"/>
+  <rect x="394" y="37" width="3" height="3" fill="#c084fc" opacity="0.35"/>
+  <rect x="397" y="37" width="3" height="3" fill="#c084fc" opacity="0.35"/>
+  <rect x="394" y="40" width="3" height="3" fill="#c084fc" opacity="0.35"/>
+  <rect x="397" y="40" width="3" height="3" fill="#c084fc" opacity="0.35"/>
+  <rect x="394" y="43" width="3" height="3" fill="#c084fc" opacity="0.35"/>
+  <rect x="397" y="43" width="3" height="3" fill="#c084fc" opacity="0.35"/>
+
+  <!-- Content rows -->
+  <g font-family="ui-monospace,'JetBrains Mono','SF Mono',Menlo,Consolas,monospace"><g opacity="0"><text x="18" y="70" fill="#3fb950" font-size="13.5" font-weight="700" text-anchor="start">harish</text><text x="60" y="70" fill="#484f58" font-size="13.5" font-weight="400" text-anchor="start">@</text><text x="73" y="70" fill="#79c0ff" font-size="13.5" font-weight="700" text-anchor="start">github</text><line x1="18" y1="74" x2="422" y2="74" stroke="#30363d" stroke-width="0.8"/><animate attributeName="opacity" from="0" to="1" begin="0.080s" dur="0.35s" fill="freeze"/></g></g><line x1="18" y1="85.5" x2="422" y2="85.5" stroke="#30363d" stroke-opacity="0.5" stroke-width="0.6"/><g font-family="ui-monospace,'JetBrains Mono','SF Mono',Menlo,Consolas,monospace" font-style="italic"><g opacity="0"><text x="18" y="101.2" fill="#6e7681" font-size="11.5" font-weight="400" text-anchor="start">// identity</text><animate attributeName="opacity" from="0" to="1" begin="0.170s" dur="0.35s" fill="freeze"/></g></g><g font-family="ui-monospace,'JetBrains Mono','SF Mono',Menlo,Consolas,monospace"><g opacity="0"><text x="18" y="120.7" fill="#ffa657" font-size="12.2" font-weight="600" text-anchor="start">&quot;name&quot;</text><text x="62.8" y="120.7" fill="#484f58" font-size="12.2" font-weight="400" text-anchor="start">:</text><text x="70.8" y="120.7" fill="#a5d6ff" font-size="12.2" font-weight="400" text-anchor="start">&quot;Harish Nadar&quot;</text><animate attributeName="opacity" from="0" to="1" begin="0.215s" dur="0.35s" fill="freeze"/></g></g><g font-family="ui-monospace,'JetBrains Mono','SF Mono',Menlo,Consolas,monospace"><g opacity="0"><text x="18" y="140.2" fill="#ffa657" font-size="12.2" font-weight="600" text-anchor="start">&quot;role&quot;</text><text x="62.8" y="140.2" fill="#484f58" font-size="12.2" font-weight="400" text-anchor="start">:</text><text x="70.8" y="140.2" fill="#a5d6ff" font-size="12.2" font-weight="400" text-anchor="start">&quot;Software Engineer&quot;</text><animate attributeName="opacity" from="0" to="1" begin="0.260s" dur="0.35s" fill="freeze"/></g></g><g font-family="ui-monospace,'JetBrains Mono','SF Mono',Menlo,Consolas,monospace"><g opacity="0"><text x="18" y="159.7" fill="#ffa657" font-size="12.2" font-weight="600" text-anchor="start">&quot;location&quot;</text><text x="91.6" y="159.7" fill="#484f58" font-size="12.2" font-weight="400" text-anchor="start">:</text><text x="99.6" y="159.7" fill="#a5d6ff" font-size="12.2" font-weight="400" text-anchor="start">&quot;Mumbai, India&quot;</text><animate attributeName="opacity" from="0" to="1" begin="0.305s" dur="0.35s" fill="freeze"/></g></g><g font-family="ui-monospace,'JetBrains Mono','SF Mono',Menlo,Consolas,monospace" font-style="italic"><g opacity="0"><text x="18" y="187.975" fill="#6e7681" font-size="11.5" font-weight="400" text-anchor="start">// education</text><animate attributeName="opacity" from="0" to="1" begin="0.350s" dur="0.35s" fill="freeze"/></g></g><g font-family="ui-monospace,'JetBrains Mono','SF Mono',Menlo,Consolas,monospace"><g opacity="0"><text x="18" y="207.475" fill="#ffa657" font-size="12.2" font-weight="600" text-anchor="start">&quot;degree&quot;</text><text x="77.2" y="207.475" fill="#484f58" font-size="12.2" font-weight="400" text-anchor="start">:</text><text x="85.2" y="207.475" fill="#a5d6ff" font-size="12.2" font-weight="400" text-anchor="start">&quot;B.E. AI &amp; Machine Learning&quot;</text><animate attributeName="opacity" from="0" to="1" begin="0.395s" dur="0.35s" fill="freeze"/></g></g><g font-family="ui-monospace,'JetBrains Mono','SF Mono',Menlo,Consolas,monospace"><g opacity="0"><text x="18" y="226.975" fill="#ffa657" font-size="12.2" font-weight="600" text-anchor="start">&quot;university&quot;</text><text x="106.0" y="226.975" fill="#484f58" font-size="12.2" font-weight="400" text-anchor="start">:</text><text x="114.0" y="226.975" fill="#a5d6ff" font-size="12.2" font-weight="400" text-anchor="start">&quot;University of Mumbai&quot;</text><animate attributeName="opacity" from="0" to="1" begin="0.440s" dur="0.35s" fill="freeze"/></g></g><g font-family="ui-monospace,'JetBrains Mono','SF Mono',Menlo,Consolas,monospace"><g opacity="0"><text x="18" y="246.475" fill="#ffa657" font-size="12.2" font-weight="600" text-anchor="start">&quot;year&quot;</text><text x="62.8" y="246.475" fill="#484f58" font-size="12.2" font-weight="400" text-anchor="start">:</text><text x="70.8" y="246.475" fill="#f2cc60" font-size="12.2" font-weight="400" text-anchor="start">2026</text><animate attributeName="opacity" from="0" to="1" begin="0.485s" dur="0.35s" fill="freeze"/></g></g><g font-family="ui-monospace,'JetBrains Mono','SF Mono',Menlo,Consolas,monospace"><g opacity="0"><text x="18" y="265.975" fill="#ffa657" font-size="12.2" font-weight="600" text-anchor="start">&quot;cgpa&quot;</text><text x="62.8" y="265.975" fill="#484f58" font-size="12.2" font-weight="400" text-anchor="start">:</text><text x="70.8" y="265.975" fill="#f2cc60" font-size="12.2" font-weight="400" text-anchor="start">7.5</text><animate attributeName="opacity" from="0" to="1" begin="0.530s" dur="0.35s" fill="freeze"/></g></g><g font-family="ui-monospace,'JetBrains Mono','SF Mono',Menlo,Consolas,monospace" font-style="italic"><g opacity="0"><text x="18" y="294.25" fill="#6e7681" font-size="11.5" font-weight="400" text-anchor="start">// focus</text><animate attributeName="opacity" from="0" to="1" begin="0.575s" dur="0.35s" fill="freeze"/></g></g><g font-family="ui-monospace,'JetBrains Mono','SF Mono',Menlo,Consolas,monospace"><g opacity="0"><text x="18" y="313.75" fill="#ffa657" font-size="12.2" font-weight="600" text-anchor="start">&quot;primary&quot;</text><text x="84.4" y="313.75" fill="#484f58" font-size="12.2" font-weight="400" text-anchor="start">:</text><text x="92.4" y="313.75" fill="#a5d6ff" font-size="12.2" font-weight="400" text-anchor="start">&quot;Backend Engineering&quot;</text><animate attributeName="opacity" from="0" to="1" begin="0.620s" dur="0.35s" fill="freeze"/></g></g><g font-family="ui-monospace,'JetBrains Mono','SF Mono',Menlo,Consolas,monospace"><g opacity="0"><text x="18" y="333.25" fill="#ffa657" font-size="12.2" font-weight="600" text-anchor="start">&quot;secondary&quot;</text><text x="98.8" y="333.25" fill="#484f58" font-size="12.2" font-weight="400" text-anchor="start">:</text><text x="106.8" y="333.25" fill="#a5d6ff" font-size="12.2" font-weight="400" text-anchor="start">&quot;Applied ML / AI&quot;</text><animate attributeName="opacity" from="0" to="1" begin="0.665s" dur="0.35s" fill="freeze"/></g></g><g font-family="ui-monospace,'JetBrains Mono','SF Mono',Menlo,Consolas,monospace" font-style="italic"><g opacity="0"><text x="18" y="361.525" fill="#6e7681" font-size="11.5" font-weight="400" text-anchor="start">// languages</text><animate attributeName="opacity" from="0" to="1" begin="0.710s" dur="0.35s" fill="freeze"/></g></g><g font-family="ui-monospace,'JetBrains Mono','SF Mono',Menlo,Consolas,monospace"><g opacity="0"><text x="18" y="381.025" fill="#ffa657" font-size="12.2" font-weight="600" text-anchor="start">&quot;code&quot;</text><text x="62.8" y="381.025" fill="#484f58" font-size="12.2" font-weight="400" text-anchor="start">:</text><text x="70.8" y="381.025" fill="#79c0ff" font-size="12.2" font-weight="400" text-anchor="start">[&quot;Python&quot;, &quot;JavaScript&quot;, &quot;SQL&quot;, &quot;C&quot;]</text><animate attributeName="opacity" from="0" to="1" begin="0.755s" dur="0.35s" fill="freeze"/></g></g><g font-family="ui-monospace,'JetBrains Mono','SF Mono',Menlo,Consolas,monospace" font-style="italic"><g opacity="0"><text x="18" y="409.29999999999995" fill="#6e7681" font-size="11.5" font-weight="400" text-anchor="start">// highlights</text><animate attributeName="opacity" from="0" to="1" begin="0.800s" dur="0.35s" fill="freeze"/></g></g><g font-family="ui-monospace,'JetBrains Mono','SF Mono',Menlo,Consolas,monospace"><g opacity="0"><text x="18" y="428.79999999999995" fill="#ffa657" font-size="12.2" font-weight="600" text-anchor="start">&quot;hackathon&quot;</text><text x="98.8" y="428.79999999999995" fill="#484f58" font-size="12.2" font-weight="400" text-anchor="start">:</text><text x="106.8" y="428.79999999999995" fill="#a5d6ff" font-size="12.2" font-weight="400" text-anchor="start">&quot;SIH Finalist 2024&quot;</text><animate attributeName="opacity" from="0" to="1" begin="0.845s" dur="0.35s" fill="freeze"/></g></g><g font-family="ui-monospace,'JetBrains Mono','SF Mono',Menlo,Consolas,monospace"><g opacity="0"><text x="18" y="448.29999999999995" fill="#ffa657" font-size="12.2" font-weight="600" text-anchor="start">&quot;award&quot;</text><text x="70.0" y="448.29999999999995" fill="#484f58" font-size="12.2" font-weight="400" text-anchor="start">:</text><text x="78.0" y="448.29999999999995" fill="#a5d6ff" font-size="12.2" font-weight="400" text-anchor="start">&quot;1st — TCSC Algo Dev 2025&quot;</text><animate attributeName="opacity" from="0" to="1" begin="0.890s" dur="0.35s" fill="freeze"/></g></g><g font-family="ui-monospace,'JetBrains Mono','SF Mono',Menlo,Consolas,monospace" font-style="italic"><g opacity="0"><text x="18" y="476.57499999999993" fill="#6e7681" font-size="11.5" font-weight="400" text-anchor="start">// outside_terminal</text><animate attributeName="opacity" from="0" to="1" begin="0.935s" dur="0.35s" fill="freeze"/></g></g><g font-family="ui-monospace,'JetBrains Mono','SF Mono',Menlo,Consolas,monospace"><g opacity="0"><text x="18" y="496.07499999999993" fill="#ffa657" font-size="12.2" font-weight="600" text-anchor="start">&quot;hobby&quot;</text><text x="70.0" y="496.07499999999993" fill="#484f58" font-size="12.2" font-weight="400" text-anchor="start">:</text><text x="78.0" y="496.07499999999993" fill="#a5d6ff" font-size="12.2" font-weight="400" text-anchor="start">&quot;football&quot;</text><animate attributeName="opacity" from="0" to="1" begin="0.980s" dur="0.35s" fill="freeze"/></g></g>
+</svg>
