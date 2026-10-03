@@ -160,7 +160,7 @@ $ ./social.sh --ping
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Harish-tig&color=7c3aed&style=flat-square&label=profile+views)](https://github.com/Harish-tig)
 &nbsp;
-[![Status](https://img.shields.io/badge/terminal-online_%C2%B7_open_to_work-22c55e?style=flat-square)](https://github.com/Harish-tig)
+[![Status](https://img.shields.io/badge/open%20to%20work-22c55e?style=flat-square&logo=checkmarx&logoColor=white)](https://github.com/Harish-tig)
 
 </div>
 
