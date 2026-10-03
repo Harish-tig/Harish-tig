@@ -158,7 +158,7 @@ $ ./social.sh --ping
 
 <br>
 
-[![Profile Views](https://img.shields.io/badge/profile%20views-checking...-7c3aed?style=flat-square)](https://github.com/Harish-tig)
+[![Profile Views](https://hits.sh/github.com/Harish-tig.svg?style=flat-square&label=Profile%20Views&color=7c3aed)](https://hits.sh/github.com/Harish-tig/)
 &nbsp;
 [![Status](https://img.shields.io/badge/open%20to%20work-22c55e?style=flat-square&logo=checkmarx&logoColor=white)](https://github.com/Harish-tig)
 
