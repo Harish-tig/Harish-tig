@@ -1067,6 +1067,7 @@
   <rect class="c51_5" x="734" y="106" width="11" height="11" rx="2" fill="#0e4429"/>
   <rect class="c51_6" x="734" y="120" width="11" height="11" rx="2" fill="#161b22"/>
   <rect class="c52_0" x="748" y="36" width="11" height="11" rx="2" fill="#161b22"/>
+  <rect class="c52_1" x="748" y="50" width="11" height="11" rx="2" fill="#161b22"/>
   <text class="lab" x="20" y="29">Oct</text>
   <text class="lab" x="62" y="29">Nov</text>
   <text class="lab" x="132" y="29">Dec</text>
